@@ -42,4 +42,35 @@ for(let val of str){
 
 
 
+function myfunction(mes){
+    console.log(mes);
+}
+ 
+myfunction("welcome to apna college");
+
+
+// function-> 2 numbers sum 
+
+// function sum(a,b){
+//     let add= a+b;
+//     console.log(add);
+// }
+
+// sum(5,6);
+
+
+const sum = (a,b)=>{
+     let add= a+b;
+     console.log(add);
+}
+
+ sum(4,4);
+
+ const mul =(a,b) =>{
+    let product= a*b;
+    console.log(product);
+ }
+
+ mul(4,2)
+
  
