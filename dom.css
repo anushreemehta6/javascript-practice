@@ -9,7 +9,14 @@ h1{
     background-color: yellow;
 }
 
-button{
+/* button{
     background-color: blue;
     color: white;
+} */
+
+.content{
+    color: red;
+}
+.newclass{
+    background-color: green;
 }
